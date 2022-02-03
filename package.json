@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "next": "^12.0.7",
-    "next-zero-intl": "^1.2.4",
+    "next-zero-intl": "^2.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
